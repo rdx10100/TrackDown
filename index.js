@@ -14,7 +14,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="YOUR URL";
+var hostURL="https://trackdown-production-22c7.up.railway.app/";
 //TOGGLE for 1pt Proxy and Shorters
 var use1pt=true;
 
